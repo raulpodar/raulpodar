@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![An image of @raulpodar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raulpodar)](https://holopin.io/@raulpodar)
-[![An image of @raulpodar's Holopin badges, which is a link to view their full Holopin profile](https://raulpodar.github.io/resume.pdf)](https://raulpodar.github.io/resume.pdf)
+[![An image of @raulpodar's Holopin badges, which is a link to view their full Holopin profile](https://en.wikipedia.org/wiki/File:Image_created_with_a_mobile_phone.png)](https://en.wikipedia.org/wiki/File:Image_created_with_a_mobile_phone.png)
 <!--
 **raulpodar/raulpodar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
