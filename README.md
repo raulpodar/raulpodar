@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 you can find my outdated portfolio [here]( https://raulpodar.github.io/) or an updated CV  [here]( https://raulpodar.github.io/resume.pdf) 
 [![An image of @raulpodar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raulpodar)](https://holopin.io/@raulpodar)
-[![An image of @raulpodar's Holopin badges, which is a link to view their full Holopin profile](https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png)](https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png)
+
 <!--
 **raulpodar/raulpodar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
