@@ -1,6 +1,8 @@
 ### Hi there 👋 you can find my outdated portfolio [here]( https://raulpodar.github.io/) or an updated CV  [here]( https://raulpodar.github.io/resume.pdf) 
 [![An image of @raulpodar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raulpodar)](https://holopin.io/@raulpodar)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulpodar)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **raulpodar/raulpodar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
