@@ -1,4 +1,4 @@
-### Hi there 👋 you can find my outdated portfolio [here]( https://raulpodar.github.io/) or an updated CV  [here]( https://raulpodar.github.io/resume.pdf) 
+### Hi there 👋 you can find my outdated portfolio [here]( https://raulpodar.github.io/) or an updated CV  [here](https://raulpodar.github.io/assets/pdf/raul_podar_cv.pdf) 
 [![An image of @raulpodar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raulpodar)](https://holopin.io/@raulpodar)
 
 
